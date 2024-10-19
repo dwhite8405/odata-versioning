@@ -32,7 +32,6 @@ Running
 
 In a console, 
 
-::
     $ dotnet run
 
 Then using a web browser or OData client, navigation to http://localhost:5205/odata/v1 and http://localhost:5205/odata/v2.
